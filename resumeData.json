@@ -1,0 +1,284 @@
+{
+	"main": {
+		"name": "Waldir Miron",
+		"occupation": "PostDoctoral Researcher",
+		"image": "profilepic.jpg",
+		"bio1": "My name is Waldir M. Berbel-Filho and thanks for visiting my website. I have a broad interest in evolutionary biology, being particularly fascinated by the evolutionary processes driving biodiversity diversification.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+		"bio2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh.",
+		"bio3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh.",
+		"email": "waldirmbf@gmail.com",
+		"phone": "405-384-0442",
+		"address": {
+			"street": "Biology Department",
+			"complement": "University of Oklahoma",
+			"city": "Norman",
+			"state": "OK",
+			"zip": "73072"
+		},
+		"website": "http://www.timbakerdev.com",
+		"resumedownload": "http://timbakerdev.com",
+		"social": [
+			{
+				"name": "Google Scholar",
+				"url": "https://scholar.google.com/citations?user=30a5mKUAAAAJ&hl=en&oi=sra",
+				"className": "fa fa-googlescholar"
+			},
+			{
+				"name": "twitter",
+				"url": "http://twitter.com/BerbelFilho",
+				"className": "fa fa-twitter"
+			},
+			{
+				"name": "ResearchGate",
+				"url": "https://www.researchgate.net/profile/Waldir-Berbel-Filho",
+				"className": "fa fa-researchgate"
+			},
+			{
+				"name": "Publons",
+				"url": "https://publons.com/wos-op/researcher/1417914/waldir-m-berbel-filho",
+				"className": "fa fa-publons"
+			},
+			{
+				"name": "github",
+				"url": "http://github.com/waldirmbf",
+				"className": "fa fa-github"
+			},
+			{
+				"name": "OrcID",
+				"url": "https://orcid.org/0000-0001-6991-4685",
+				"className": "fa fa-ORCID"
+			}
+		]
+	},
+	"publications": {
+		"publications": [
+			{
+				"authors": "Berbel-Filho WM, Tatarenkov A, Pacheco G, Espírito-Santo HMV, Lira MG, de Leaniz CG, Avise JC, Lima SMQ, Rodríguez-López C, Consuegra S. 2021.",
+				"title": "Against the odds: hybrid zones between mangrove killifish species with different mating systems.",
+				"paper": "Genes 12:1486",
+				"link": "https://doi.org/10.3390/genes12101486"
+			},
+			{
+				"authors": "Lira MG*, Berbel-Filho WM*, Espírito-Santo HMV, Tatarenkov A, Avise JC, de Leaniz CG, Consuegra S, Lima SMQ. 2021.",
+				"title": "Filling the gaps: phylogeography of the self-fertilizing Kryptolebias species (Cyprinodontiformes: Rivulidae) along South American mangroves.",
+				"paper": "Journal of Fish Biology 99:644-655 *equal contribution",
+				"link": "https://onlinelibrary.wiley.com/doi/10.1111/jfb.14753",
+				"extraInformation": [
+					{
+						"information": "Featured in Heredity's podcast",
+						"link": "https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLm5hdHVyZS5jb20vaGR5L3BvZGNhc3QvY3VycmVudA"
+					},
+					{
+						"information": "NatureEcoEvoCommunity blog",
+						"link": "https://natureecoevocommunity.nature.com/posts/so-similar-yet-so-different-a-tale-of-two-fishes"
+					}
+				]
+			},
+			{
+				"authors": "Lima SMQ, Berbel-Filho WM, Vilasboas A, Lazoski C, Volpi TA, Lazzaroto H, Russo CAM, Tatarenkov A, Avise JC, Solé-Cava A. 2021",
+				"title": "Rio de Janeiro and other palaeodrainages evidenced by the genetic structure of an Atlantic Forest catfish.",
+				"paper": "Journal of Biogeography 48:1475-1488.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Preprint: Berbel-Filho WM, Tatarenkov A, Pacheco G, Espírito-Santo HMV, Lira MG, de Leaniz CG, Avise JC, Lima SMQ, Rodríguez-López C, Consuegra S.",
+				"title": "Additive and non-additive epigenetic signatures of hybridisation between fish species with different mating systems.",
+				"paper": "BioRkiv",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Berbel-Filho WM, Tatarenkov A, Espírito-Santo HMV, Lira MG, de Leaniz CG, Lima SMQ, Consuegra S.",
+				"title": "More than meets the eye: syntopic and morphologically similar mangrove killifish species show different mating systems and patterns of genetic structure along the Brazilian coast.",
+				"paper": "Heredity 125:340-352.\n\nFeatured in Heredity's podcast | NatureEcoEvoCommunity blog | Preprint version at BioRkiv.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Berbel-Filho WM, Berry N, Rodríguez-Barreto D, Teixeira SR, de Leaniz CG, Consuegra S. 2020.",
+				"title": "Environmental enrichment induces intergenerational behavioural and epigenetic efffecs on fish.",
+				"paper": "Molecular Ecology 29:2288-2299.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Godeiro NN, Pacheco G, Liu S, Cipola NG, Berbel-Filho WM, Zang F, Gilbert MTP, Bellini BC.  2020.",
+				"title": "Phylogeny of Neotropical Seirinae (Collembola, Entomobryidae) based on mitochondrial genomes.",
+				"paper": "Zoologica Scripta 49:329-339.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Berbel-Filho WM. 2020.",
+				"title": "The relative roles of genetic and epigenetic variation on the ecology and evolution of mangrove killifishes (Kryptolebias spp.).",
+				"paper": "PhD thesis on Biological sciences, Swansea University, Swansea, United Kingdom.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Berbel-Filho WM, de Leaniz CG, Morán P, Cable J, Lima SMQ, Consuegra S. 2019.",
+				"title": "Local parasite pressures and host genotype modulate epigenetic diversity in a mixed-mating fish.",
+				"paper": "Ecology and Evolution 9: 8736-8749.\n\nPreprint version at BioRkiv.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Berbel-Filho WM, Rodríguez-Barreto D, Berry N, de Leaniz CG, Consuegra S. 2019.",
+				"title": "Contrasting DNA methylation responses of inbred fish lines to different rearing environments.",
+				"paper": "Epigenetics 14: 938-949.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Berbel-Filho WM, Ramos TPA, Jacobina UP, Maia DJG, Torres RA, Lima SMQ. 2018.",
+				"title": "Updated checklist and DNA barcode-based species delimitations reveal taxonomic uncertainties among freshwater fishes from the Mid-north-eastern Caatinga ecoregion, north-eastern Brazil.",
+				"paper": "Journal of Fish Biology 93: 311-323.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Berbel-Filho WM,  Barros-Neto LF, Dias RM, Mendes LF, Figueiredo CAA, Torres RA, Lima SMQ. 2018.",
+				"title": "Poecilia vivipara Bloch and Schneider 1801 (Cyprinodontiformes, Poeciliidae), a guppy in an oceanic archipelago: from where did it come?",
+				"paper": "ZooKeys 746:91-104.\n\nLink to EurekAlert! Link to National Geographic news",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Barton H, Berbel-Filho WM, Consuegra S, Francis L, Tizaoui C, Conlan RS, Teixeira SR. 2018.",
+				"title": "Ultrasensitive environmental assessment of xeno-estrogens in water samples using label-free graphene immunosensors.",
+				"paper": "Analytical Biochemistry 54:102-108.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Lima SMQ, Berbel-Filho WM, Araújo TFP, Lazzarotto H, Tatarenkov A, Avise JC. 2017.",
+				"title": "Headwater capture evidenced by paleo-rivers reconstruction and population genetic structure of the armored catfish (Pareiorhaphis garbei) in the Serra do Mar mountains of southeastern Brazil.",
+				"paper": "Frontiers in Genetics 8:199.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Tatarenkov A, Lima SMQ, Earley RL, Berbel-Filho WM, Vermeulen FBM, Taylor DS, Marson K et al. 2017.",
+				"title": "Deep and concordant subdivisions in the self-fertilizing mangrove killifishes (Kryptolebias) revealed by nuclear and mtDNA markers.",
+				"paper": "Biological Journal of the Linnean Society 122:558-578.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Lima FD, Berbel-Filho WM, Leite TS, Rosas C, Lima SMQ. 2017.",
+				"title": "Occurrence of Octopus insularis Leite and Haimovici, 2008 in the Tropical Northwestern Atlantic and implications of species misidentification to octopus fisheries management.",
+				"paper": "Marine Biodiversity 47:723-724",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Berbel-Filho, Espírito-Santo HMV, Lima SMQ. 2016.",
+				"title": "First record of a male of Kryptolebias hermaphroditus Costa, 2011 (Cyprinodontiformes: Cynolebiidae).",
+				"paper": "Neotropical Ichthyology 14:e160024.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Lima SMQ, Vasconcellos AV, Berbel-Filho WM, Lazoski C, Russo CAM, Sazima I, Solé-Cava AM. 2016.",
+				"title": "Effects of Pleistocene climatic and geomorphological changes on the population structure of the restricted-range catfish Trichogenes longipinnis (Siluriformes: Trichomycteridae).",
+				"paper": "Systematics and Biodiversity 14:155-170.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Berbel-Filho WM, Martinez PA, Ramos TPA, Torres RA, Lima SMQ. 2016.",
+				"title": "Inter- and intra-basin phenotypic variation in two riverine cichlids from northeastern Brazil: potential eco-evolutionary damages of São Francisco interbasin water transfer.",
+				"paper": "Hydrobiologia 766:43-56.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Molina WF, Pacheco GA, Berbel-Filho WM. 2014.",
+				"title": "Padrões citogenéticos de duas espécies de ciclídeos de bacias do semi-árido do brasil: Crenicichla menezesi e Cichlasoma orientale.",
+				"paper": "Biota Amazônia 4:33-39.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Berbel-Filho WM. 2014.",
+				"title": "Sistemática integrativa de Cichlasoma orientale Kullander 1983 e Crenicihla menezesi Ploeg 1991 (Teleostei: Cichlidae) das bacias hidrográficas do Nordeste do Brasil.",
+				"paper": "Msc Thesis on Systematics and Evolution Program, Universidade Federal do Rio Grande do Norte, Brazil.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Brito MFG, Lima SMQ, Berbel-Filho WM, Torres RA. 2014.",
+				"title": "New records and distribution extension of Hyphessobrycon itaparicensis Lima & Costa, 2001 (Characiformes: Characidae) in coastal drainages of Sergipe state, northeastern Brazil.",
+				"paper": "Checklist 10: 1156-1160.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Berbel-Filho WM, Jacobina UP, Martinez PA. 2013.",
+				"title": "Preservation effects in geometric morphometric approaches: freezing and alcohol in a freshwater fish.",
+				"paper": "Ichthyological Research 60:268-271.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Martinez PA, Berbel-Filho WM, Jacobina UP. 2013.",
+				"title": "Is formalin fixation and ethanol preservation able to influence in geometric morphometric analysis? Fishes as a case study.",
+				"paper": "Zoomorphology 132:87-93.",
+				"link": "https://google.com"
+			}
+		]
+	},
+	"research": {
+		"researches": [
+			{
+				"title": "I love my little fish",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh. Suspendisse ultrices quam dapibus, hendrerit lacus ac, feugiat enim. Suspendisse vestibulum tincidunt viverra. Donec non neque mauris. Praesent mauris eros, semper et facilisis vel, hendrerit a libero. Duis gravida nec metus ut dictum. In sagittis egestas fringilla. Nam ultricies sapien nisi, ac vehicula nunc sodales ac. Quisque feugiat enim eget elit ullamcorper, vitae consectetur lorem faucibus. Quisque cursus sed nisl sodales ornare. Cras eleifend ac dui a semper.",
+				"image": "1.png"
+			},
+			{
+				"title": "Nature is everything to me",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh. Suspendisse ultrices quam dapibus, hendrerit lacus ac, feugiat enim. Suspendisse vestibulum tincidunt viverra. Donec non neque mauris. Praesent mauris eros, semper et facilisis vel, hendrerit a libero. Duis gravida nec metus ut dictum. In sagittis egestas fringilla. Nam ultricies sapien nisi, ac vehicula nunc sodales ac. Quisque feugiat enim eget elit ullamcorper, vitae consectetur lorem faucibus. Quisque cursus sed nisl sodales ornare. Cras eleifend ac dui a semper. Sed a tortor a libero vulputate lobortis.\nEtiam congue ornare eros, a elementum est interdum vel. Vivamus condimentum, erat vitae tempor dapibus, erat magna aliquet dolor, vitae egestas nunc dui ac felis. Maecenas mattis luctus turpis, non viverra neque gravida id. Praesent ut dictum mauris. Etiam in pretium urna, at viverra arcu. Proin cursus vehicula nisi quis sagittis. Nullam eget porttitor est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas mollis diam et ultricies tincidunt. Suspendisse potenti. In hac habitasse platea dictumst. Nulla varius luctus nibh non volutpat. Donec laoreet tincidunt ipsum bibendum efficitur.\nPraesent dolor nisl, luctus quis fermentum ut, accumsan sit amet metus.",
+				"image": "2.png"
+			},
+			{
+				"title": "My wife made this website and she is awesome",
+				"description": "Etiam congue ornare eros, a elementum est interdum vel. Vivamus condimentum, erat vitae tempor dapibus, erat magna aliquet dolor, vitae egestas nunc dui ac felis. Maecenas mattis luctus turpis, non viverra neque gravida id. Praesent ut dictum mauris. Etiam in pretium urna, at viverra arcu. Proin cursus vehicula nisi quis sagittis. Nullam eget porttitor est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas mollis diam et ultricies tincidunt. Suspendisse potenti. In hac habitasse platea dictumst. Nulla varius luctus nibh non volutpat. Donec laoreet tincidunt ipsum bibendum efficitur.\nPraesent dolor nisl, luctus quis fermentum ut, accumsan sit amet metus. Nulla hendrerit convallis nibh vitae iaculis. Nulla ornare urna in interdum condimentum. Nam porttitor ipsum commodo, iaculis leo sit amet, aliquet justo. Nullam sed aliquet urna, in molestie sem. Sed eget consectetur risus. Praesent eu augue lorem. Vestibulum interdum tincidunt erat at dignissim. Etiam dapibus lacinia blandit. Ut accumsan rhoncus suscipit. Integer leo ipsum, sagittis ac semper quis, finibus eu nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam eget faucibus nibh, iaculis tempor mi. Nullam lacinia, nisl et pharetra lobortis, purus sapien consequat nibh, vitae pharetra nibh tellus quis metus.",
+				"image": "3.png"
+			},
+			{
+				"title": "Damn right I will be a professor",
+				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh. Suspendisse ultrices quam dapibus, hendrerit lacus ac, feugiat enim. Suspendisse vestibulum tincidunt viverra. Donec non neque mauris. Praesent mauris eros, semper et facilisis vel, hendrerit a libero. Duis gravida nec metus ut dictum. In sagittis egestas fringilla. Nam ultricies sapien nisi, ac vehicula nunc sodales ac. Quisque feugiat enim eget elit ullamcorper, vitae consectetur lorem faucibus. Quisque cursus sed nisl sodales ornare. Cras eleifend ac dui a semper. Sed a tortor a libero vulputate lobortis.\nEtiam congue ornare eros, a elementum est interdum vel. Vivamus condimentum, erat vitae tempor dapibus, erat magna aliquet dolor, vitae egestas nunc dui ac felis. Maecenas mattis luctus turpis, non viverra neque gravida id. Praesent ut dictum mauris. Etiam in pretium urna, at viverra arcu. Proin cursus vehicula nisi quis sagittis. Nullam eget porttitor est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas mollis diam et ultricies tincidunt. ",
+				"image": "4.png"
+			}
+		]
+	},
+	"news": {
+		"news": [
+			{
+				"date": "July 8th, 2022",
+				"title": "Breaking news!",
+				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh."
+			},
+			{
+				"date": "July 8th, 2022",
+				"title": "One more new",
+				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh."
+			},
+			{
+				"date": "July 8th, 2022",
+				"title": "One more new",
+				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh."
+			},
+			{
+				"date": "July 8th, 2022",
+				"title": "One more new",
+				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh."
+			},
+			{
+				"date": "July 8th, 2022",
+				"title": "One more new",
+				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh."
+			},
+			{
+				"date": "July 8th, 2022",
+				"title": "One more new",
+				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh."
+			},
+			{
+				"date": "July 8th, 2022",
+				"title": "One more new",
+				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh."
+			},
+			{
+				"date": "June 14th, 2022",
+				"title": "One more new",
+				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh."
+			},
+			{
+				"date": "December 31st, 2021",
+				"title": "Guess what? Happy new year!",
+				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh."
+			}
+		]
+	}
+}
