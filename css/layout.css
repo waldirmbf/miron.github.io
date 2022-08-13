@@ -106,7 +106,7 @@ header .social {
 header .social li {
 	display: inline-block;
 	margin: 0 15px;
-	padding: 0;
+	padding: 1px;
 }
 
 header .social li a {
