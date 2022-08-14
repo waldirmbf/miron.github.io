@@ -3,10 +3,6 @@
 		"name": "Waldir Miron",
 		"occupation": "PostDoctoral Researcher",
 		"image": "profilepic.jpg",
-		"bio1": "Thanks for visiting my website! I have a broad interest in evolutionary biology, being particularly fascinated by the mechanisms and processes leading to biodiversity diversification.",
-		"bio2": "Currently, I am postdocotral researcher at the [Biology Department from the University of Oklahoma](https://www.ou.edu/cas/biology), being mentoring by Dr. [Ingo Schlupp](https://ingoschlupp.com/). I am currently involved in many projects using livebearers fishes as model organisms. In particular, we are interested to understand the links between hybridization and asexuality, and what are the phenotypic and genomic changes that lead to evolution of asexuality in a hybrid context.",
-		"bio3": "Growing up in a Tropical city in Brazil, I had the privilege to spend most of my childhood snorkeling and fishing in coral reefs. Ever since, fish control my mind! It was inevitable move to me to become a fish biologist, with particular interst to understand how fish came to be the amazing creatures they are! I am particulaly fascinated about diversty of sexual and reproductive biology, as well as the molecular basis that generate the endless forms we observe in nature as well as its integration with the environment. See Research for more details on the topics I am interested on!",
-		"bio4": "On more personal notes, I consider myself as an 'aquatic creature'. Anything that surrounds the ocean, rivers, lakes and creeks sounds good to me! I like diving, swimming, or just relaxing by the water. I am also a football/soccer fan and a frustrated table tennis player!",
 		"email": "waldirmbf@gmail.com",
 		"phone": "405-384-0442",
 		"address": {
@@ -185,79 +181,6 @@
 				"title": "Sistemática integrativa de Cichlasoma orientale Kullander 1983 e Crenicihla menezesi Ploeg 1991 (Teleostei: Cichlidae) das bacias hidrográficas do Nordeste do Brasil.",
 				"paper": "Msc Thesis on Systematics and Evolution Program, Universidade Federal do Rio Grande do Norte, Brazil.",
 				"link": "https://repositorio.ufrn.br/handle/123456789/18134"
-			}
-		]
-	},
-	"research": {
-		"researches": [
-			{
-				"title": "The sex(y) life of fishes",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh. Suspendisse ultrices quam dapibus, hendrerit lacus ac, feugiat enim. Suspendisse vestibulum tincidunt viverra. Donec non neque mauris. Praesent mauris eros, semper et facilisis vel, hendrerit a libero. Duis gravida nec metus ut dictum. In sagittis egestas fringilla. Nam ultricies sapien nisi, ac vehicula nunc sodales ac. Quisque feugiat enim eget elit ullamcorper, vitae consectetur lorem faucibus. Quisque cursus sed nisl sodales ornare. Cras eleifend ac dui a semper.",
-				"image": "1.png"
-			},
-			{
-				"title": "Phylogenetics, hybridization and population genetics",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh. Suspendisse ultrices quam dapibus, hendrerit lacus ac, feugiat enim. Suspendisse vestibulum tincidunt viverra. Donec non neque mauris. Praesent mauris eros, semper et facilisis vel, hendrerit a libero. Duis gravida nec metus ut dictum. In sagittis egestas fringilla. Nam ultricies sapien nisi, ac vehicula nunc sodales ac. Quisque feugiat enim eget elit ullamcorper, vitae consectetur lorem faucibus. Quisque cursus sed nisl sodales ornare. Cras eleifend ac dui a semper. Sed a tortor a libero vulputate lobortis.\nEtiam congue ornare eros, a elementum est interdum vel. Vivamus condimentum, erat vitae tempor dapibus, erat magna aliquet dolor, vitae egestas nunc dui ac felis. Maecenas mattis luctus turpis, non viverra neque gravida id. Praesent ut dictum mauris. Etiam in pretium urna, at viverra arcu. Proin cursus vehicula nisi quis sagittis. Nullam eget porttitor est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas mollis diam et ultricies tincidunt. Suspendisse potenti. In hac habitasse platea dictumst. Nulla varius luctus nibh non volutpat. Donec laoreet tincidunt ipsum bibendum efficitur.\nPraesent dolor nisl, luctus quis fermentum ut, accumsan sit amet metus.",
-				"image": "2.png"
-			},
-			{
-				"title": "Plasticity in clonal organisms",
-				"description": "Etiam congue ornare eros, a elementum est interdum vel. Vivamus condimentum, erat vitae tempor dapibus, erat magna aliquet dolor, vitae egestas nunc dui ac felis. Maecenas mattis luctus turpis, non viverra neque gravida id. Praesent ut dictum mauris. Etiam in pretium urna, at viverra arcu. Proin cursus vehicula nisi quis sagittis. Nullam eget porttitor est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas mollis diam et ultricies tincidunt. Suspendisse potenti. In hac habitasse platea dictumst. Nulla varius luctus nibh non volutpat. Donec laoreet tincidunt ipsum bibendum efficitur.\nPraesent dolor nisl, luctus quis fermentum ut, accumsan sit amet metus. Nulla hendrerit convallis nibh vitae iaculis. Nulla ornare urna in interdum condimentum. Nam porttitor ipsum commodo, iaculis leo sit amet, aliquet justo. Nullam sed aliquet urna, in molestie sem. Sed eget consectetur risus. Praesent eu augue lorem. Vestibulum interdum tincidunt erat at dignissim. Etiam dapibus lacinia blandit. Ut accumsan rhoncus suscipit. Integer leo ipsum, sagittis ac semper quis, finibus eu nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam eget faucibus nibh, iaculis tempor mi. Nullam lacinia, nisl et pharetra lobortis, purus sapien consequat nibh, vitae pharetra nibh tellus quis metus.",
-				"image": "3.png"
-			},
-			{
-				"title": "Development of epigenetics markers",
-				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh. Suspendisse ultrices quam dapibus, hendrerit lacus ac, feugiat enim. Suspendisse vestibulum tincidunt viverra. Donec non neque mauris. Praesent mauris eros, semper et facilisis vel, hendrerit a libero. Duis gravida nec metus ut dictum. In sagittis egestas fringilla. Nam ultricies sapien nisi, ac vehicula nunc sodales ac. Quisque feugiat enim eget elit ullamcorper, vitae consectetur lorem faucibus. Quisque cursus sed nisl sodales ornare. Cras eleifend ac dui a semper. Sed a tortor a libero vulputate lobortis.\nEtiam congue ornare eros, a elementum est interdum vel. Vivamus condimentum, erat vitae tempor dapibus, erat magna aliquet dolor, vitae egestas nunc dui ac felis. Maecenas mattis luctus turpis, non viverra neque gravida id. Praesent ut dictum mauris. Etiam in pretium urna, at viverra arcu. Proin cursus vehicula nisi quis sagittis. Nullam eget porttitor est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas mollis diam et ultricies tincidunt. ",
-				"image": "4.png"
-			}
-		]
-	},
-	"news": {
-		"news": [
-			{
-				"date": "July 8th, 2022",
-				"title": "Breaking news!",
-				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh."
-			},
-			{
-				"date": "July 8th, 2022",
-				"title": "One more new",
-				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh."
-			},
-			{
-				"date": "July 8th, 2022",
-				"title": "One more new",
-				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh."
-			},
-			{
-				"date": "July 8th, 2022",
-				"title": "One more new",
-				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh."
-			},
-			{
-				"date": "July 8th, 2022",
-				"title": "One more new",
-				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh."
-			},
-			{
-				"date": "July 8th, 2022",
-				"title": "One more new",
-				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh."
-			},
-			{
-				"date": "July 8th, 2022",
-				"title": "One more new",
-				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh."
-			},
-			{
-				"date": "June 14th, 2022",
-				"title": "One more new",
-				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh."
-			},
-			{
-				"date": "December 31st, 2021",
-				"title": "Guess what? Happy new year!",
-				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh."
 			}
 		]
 	}
