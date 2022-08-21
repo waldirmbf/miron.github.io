@@ -320,6 +320,7 @@ ul#nav li.current a {
 #publications a:visited {
 	color: #085d60;
 	text-decoration: underline;
+	margin-left: 5px;
 }
 
 #publications a:hover,
