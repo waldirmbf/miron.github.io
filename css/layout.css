@@ -479,6 +479,16 @@ ul#nav li.current a {
 	color: #E3E3E3;
 }
 
+
+#news .content a:hover {
+	color: #0F9095;
+}
+
+#news .content a:visited {
+	color: #0F9095;
+}
+
+
 #news .header-col h1:before {
 	font-family: 'FontAwesome';
 	content: "\f10d";
