@@ -113,7 +113,7 @@ header .social li a {
 }
 
 header .social li a:hover {
-	color: #11ABB0;
+	color: #d0d007;
 }
 
 /* scrolldown link */
@@ -138,7 +138,7 @@ header .scrolldown a {
 }
 
 header .scrolldown a:hover {
-	color: #11ABB0;
+	color: #d0d007;
 }
 
 /* primary navigation
@@ -211,7 +211,7 @@ ul#nav li a {
 }
 
 ul#nav li a:hover {
-	color: #11ABB0;
+	color: #d0d007;
 }
 
 ul#nav li a:active {
@@ -219,7 +219,7 @@ ul#nav li a:active {
 }
 
 ul#nav li.current a {
-	color: #11ABB0;
+	color: #d0d007;
 }
 
 
@@ -255,7 +255,7 @@ ul#nav li.current a {
 
 #about a:hover,
 #about a:focus {
-	color: #11ABB0;
+	color: #2cd1ff;
 }
 
 #about h2 {
@@ -320,14 +320,14 @@ ul#nav li.current a {
 
 #publications a,
 #publications a:visited {
-	color: #085d60;
+	color: #1142b0;
 	text-decoration: underline;
 	margin-left: 5px;
 }
 
 #publications a:hover,
 #publications a:focus {
-	color: #085d60;
+	color: #1142b0;
 }
 
 #publications .extraInfoPanel {
@@ -351,7 +351,7 @@ ul#nav li.current a {
 }
 
 #publications h1 span {
-	border-bottom: 3px solid #085d60;
+	border-bottom: 3px solid #1142b0;
 	padding-bottom: 6px;
 }
 
@@ -474,7 +474,7 @@ ul#nav li.current a {
 	padding-top: 4px;
 	font: 15px/22px 'opensans-bold', sans-serif;
 	letter-spacing: 1px;
-	color: #11ABB0;
+	color: #2cd2ff;
 }
 
 #news .content {
@@ -485,11 +485,11 @@ ul#nav li.current a {
 
 
 #news .content a:hover {
-	color: #0F9095;
+	color: #2cd2ff;
 }
 
 #news .content a:visited {
-	color: #0F9095;
+	color: #2cd2ff;
 }
 
 
@@ -640,7 +640,7 @@ footer .copyright li:before {
 	content: "\2022";
 	padding-left: 10px;
 	padding-right: 10px;
-	color: #095153;
+	color: #d0d007;
 }
 
 footer .copyright li:first-child:before {
@@ -659,7 +659,7 @@ footer .social-links li {
 	margin: 0;
 	padding: 0;
 	margin-left: 42px;
-	color: #11ABB0;
+	color: #d0d007;
 }
 
 footer .social-links li:first-child {
@@ -680,7 +680,7 @@ footer .social-links li:first-child {
 	display: block;
 	width: 60px;
 	height: 60px;
-	background-color: #0F9095;
+	background-color: #fff;
 
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
@@ -688,12 +688,12 @@ footer .social-links li:first-child {
 	-ms-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
 
-	color: #fff;
+	color: #000;
 	font-size: 21px;
 	line-height: 60px;
 	border-radius: 100%;
 }
 
 #go-top a:hover {
-	background-color: #0F9095;
+	background-color: #d0d007;
 }
