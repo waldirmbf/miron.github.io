@@ -720,6 +720,18 @@ properly.
 --------------------------------------------------------------- */
 @media only screen and (max-width: 767px) {
 
+   .about-text {
+      padding-right: 24px
+   }
+
+   #news .text-container{
+      padding-right: 24px
+
+   }
+
+   #research .research-content {
+      padding-right: 10px
+   }
    .row {
 	   width: 460px;
 	   margin: 0 auto;
