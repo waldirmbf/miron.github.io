@@ -244,6 +244,7 @@ ul#nav li.current a {
 }
 
 #about .about-text p {
+	text-align: justify;
 	color: #afafaf;
 }
 
@@ -314,6 +315,7 @@ ul#nav li.current a {
 	padding-top: 90px;
 	padding-bottom: 72px;
 	overflow: hidden;
+	text-align: justify;
 }
 
 #publications a,
@@ -387,6 +389,7 @@ ul#nav li.current a {
 
 #research .research-content {
 	font: 15px/30px 'opensans-regular', sans-serif;
+	text-align: justify;
 }
 
 #research h1 {
@@ -448,6 +451,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #news .text-container {
+	text-align: justify;
 	padding-top: 90px;
 	padding-bottom: 72px;
 }
