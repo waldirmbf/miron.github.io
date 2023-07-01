@@ -17,21 +17,45 @@
 	"publications": {
 		"publications": [
 			{
+				"authors":"Fyon F, Berbel-Filho WM.",
+				"title": "The evolutionary fate of divergent genomes in hybrid zones between selfing and outcrossing species",
+				"paper": "Preprint submitted to Heredity.",
+				"link": "https://www.biorxiv.org/content/10.1101/2022.12.12.520111v2.full"
+			},
+			{
+				"authors":"Fyon F, Berbel-Filho WM, Schlupp I, Wild G, Ubeda F.",
+				"title": "Why do hybrids turn down sex?",
+				"paper": "Resubmitted to Evolution",
+				"link": ""
+			},
+			{
+				"authors":"Berbel-Filho WM, Pacheco G, Lira MG, de Leaniz CG, Lima SMQ, Rodríguez-López C, Zhou J, Consuegra S. 2022.",
+				"title": "Additive and non-additive epigenetic signatures of natural hybridisation between fish species with different mating systems",
+				"paper": "Epigenetics 13:2356-2365.",
+				"link": "https://doi.org/10.1080/15592294.2022.2123014"
+			},
+			{
+				"authors":"Berbel-Filho WM, Pacheco G, Tatarenkov A, Lira MG, de Leaniz CG, Rodríguez-López C, Lima SMQ, Consuegra S. 2022.",
+				"title": "Phylogenomics reveals extensive introgression and a case of mito-nuclear discordance in the killifish genus Kryptolebias",
+				"paper": "Molecular Phylogenetics and Evolution,177:107617.",
+				"link": "https://doi.org/10.1016/j.ympev.2022.107617"
+			},
+			{
 				"authors":"Costa TLA, Petean FF, Berbel-Filho WM, Solé-Cava AM, Mendes LF, Lima SMQ. 2022.",
 				"title": "Molecular testing of the São Francisco River as an ecological filter for the Brazilian large-eyed stingray Hypanus marianae (Dasyatidae, Myliobatiformes).",
-				"paper": "Hydrobiologia 849:2435-2248",
+				"paper": "Hydrobiologia 849:2435-2248.",
 				"link": "https://doi.org/10.1007/s10750-022-04828-6"
 			},
 			{
 				"authors": "Berbel-Filho WM, Tatarenkov A, Pacheco G, Espírito-Santo HMV, Lira MG, de Leaniz CG, Avise JC, Lima SMQ, Rodríguez-López C, Consuegra S. 2021.",
 				"title": "Against the odds: hybrid zones between mangrove killifish species with different mating systems.",
-				"paper": "Genes 12:1486",
+				"paper": "Genes 12:1486.",
 				"link": "https://doi.org/10.3390/genes12101486"
 			},
 			{
 				"authors": "Lira MGS*, Berbel-Filho WM*, Espírito-Santo HMV, Tatarenkov A, Avise JC, de Leaniz CG, Consuegra S, Lima SMQ. 2021.",
 				"title": "Filling the gaps: phylogeography of the self-fertilizing Kryptolebias species (Cyprinodontiformes: Rivulidae) along South American mangroves.",
-				"paper": "Journal of Fish Biology 99:644-655 *equal contribution",
+				"paper": "Journal of Fish Biology 99:644-655. *equal contribution",
 				"link": "https://doi.org/10.1111/jfb.14753"
 			},
 			{
