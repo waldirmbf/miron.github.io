@@ -286,9 +286,10 @@ hr { border: solid #E3E3E3; border-width: 1px 0 0; clear: both; margin: 11px 0 3
 /*  3. Links  ------------------------------------------------------- */
 
 a, a:visited {
-   text-decoration: none;
+   text-decoration: underline;
    outline: 0;
-   color: #1142b0;
+   color: #b9b75f;
+   font-weight: bold;
 
    -webkit-transition: color .3s ease-in-out;
    -moz-transition: color .3s ease-in-out;
