@@ -1,59 +1,65 @@
 {
 	"main": {
 		"name": "Waldir Miron",
-		"occupation": "PostDoctoral Researcher",
+		"occupation": "Assistant Professor",
 		"image": "profilepic.jpg",
-		"email": "waldirmbf@gmail.com",
+		"email": "waldirmiron@uwf.edu",
 		"phone": "405-384-0442",
 		"address": {
-			"street": "Biology Department",
-			"complement": "University of Oklahoma",
-			"city": "Norman",
-			"state": "OK",
-			"zip": "73072"
+			"street": "Department of Biology",
+			"complement": "University of West Florida",
+			"city": "Pensacola",
+			"state": "FL",
+			"zip": "32514"
 		},
 		"resumedownload": "http://timbakerdev.com"
 	},
 	"publications": {
 		"publications": [
 			{
-				"authors":"Smith C, Berbel-Filho WM, Spikes M, Fyon F, Ubeda F, Schlupp I.",
-				"title": "Absence of female preference and the origin of a unisexual species, the Amazon molly (Poecilia formosa)",
-				"paper": "Preprint to be submitted.",
-				"link": "https://www.researchsquare.com/article/rs-2948357/v1"
+				"authors": "Anka IZ, Uren Webster TM, Berbel-Filho WM, Hitchings M, Overland B, Weller S, Garcia de Leaniz C, Consuegra S. 2024.",
+				"title": "Microbiome and epigenetic variation in wild fish with low genetic diversity.",
+				"paper": "Nature Communications 15,4725",
+				"link": "https://doi.org/10.1038/s41467-024-49162-8"
 			},
 			{
-				"authors":"Anka I, Uren Webster T, Berbel-Filho WM, Hitchings M, Overland B, de Leaniz CG, Consuegra S.",
-				"title": "The interaction between microbiome and epigenetic diversity as a source of phenotypic variation for fish with low genetic diversity",
-				"paper": "Preprint submitted to Nature Communications.",
-				"link": "https://www.researchsquare.com/article/rs-2925389/v1"
+				"authors": "Tiedemann R, Riesch R, Tomowski M., Havenstein K, Schlupp J, Berbel-Filho WM, Schlupp, I. 2024.",
+				"title": "Genetic and phenotypic diversification in a widespread fish, the Sailfin Molly (Poecilia latipinna).",
+				"paper": "BMC Ecology and Evolution 24:87",
+				"link": "https://doi.org/10.1186/s12862-024-02270-x"
 			},
 			{
-				"authors":"Fyon F, Berbel-Filho WM.",
-				"title": "Influence of the mutation load on the genomic composition of hybrids between outcrossing and self-fertilizing species",
+				"authors": "Smith C, Berbel-Filho WM, Spikes M, Fyon F, Ubeda F, Schlupp I. 2024.",
+				"title": "Absence of female preference and the origin of a unisexual species, the Amazon molly (Poecilia formosa).",
+				"paper": "Ethology 130: e13469",
+				"link": "https://doi.org/10.1111/eth.13469"
+			},
+			{
+				"authors": "Fyon F, Berbel-Filho WM.",
+				"title": "Influence of the mutation load on the genomic composition of hybrids between outcrossing and self-fertilizing species. 2023.",
 				"paper": "Ecology and Evolution 13:e10538",
 				"link": "https://doi.org/10.1002/ece3.10538"
 			},
 			{
-				"authors":"Fyon F, Berbel-Filho WM, Schlupp I, Wild G, Ubeda F. 2023.",
+				"authors": "Fyon F, Berbel-Filho WM, Schlupp I, Wild G, Ubeda F. 2023.",
 				"title": "Why do hybrids turn down sex?",
 				"paper": "Evolution 77:2186-2199",
 				"link": "https://doi.org/10.1093/evolut/qpad129"
 			},
 			{
-				"authors":"Berbel-Filho WM, Pacheco G, Lira MG, de Leaniz CG, Lima SMQ, Rodríguez-López C, Zhou J, Consuegra S. 2022.",
+				"authors": "Berbel-Filho WM, Pacheco G, Lira MG, de Leaniz CG, Lima SMQ, Rodríguez-López C, Zhou J, Consuegra S. 2022.",
 				"title": "Additive and non-additive epigenetic signatures of natural hybridisation between fish species with different mating systems",
 				"paper": "Epigenetics 13:2356-2365.",
 				"link": "https://doi.org/10.1080/15592294.2022.2123014"
 			},
 			{
-				"authors":"Berbel-Filho WM, Pacheco G, Tatarenkov A, Lira MG, de Leaniz CG, Rodríguez-López C, Lima SMQ, Consuegra S. 2022.",
+				"authors": "Berbel-Filho WM, Pacheco G, Tatarenkov A, Lira MG, de Leaniz CG, Rodríguez-López C, Lima SMQ, Consuegra S. 2022.",
 				"title": "Phylogenomics reveals extensive introgression and a case of mito-nuclear discordance in the killifish genus Kryptolebias",
 				"paper": "Molecular Phylogenetics and Evolution 177:107617.",
 				"link": "https://doi.org/10.1016/j.ympev.2022.107617"
 			},
 			{
-				"authors":"Costa TLA, Petean FF, Berbel-Filho WM, Solé-Cava AM, Mendes LF, Lima SMQ. 2022.",
+				"authors": "Costa TLA, Petean FF, Berbel-Filho WM, Solé-Cava AM, Mendes LF, Lima SMQ. 2022.",
 				"title": "Molecular testing of the São Francisco River as an ecological filter for the Brazilian large-eyed stingray Hypanus marianae (Dasyatidae, Myliobatiformes).",
 				"paper": "Hydrobiologia 849:2435-2248.",
 				"link": "https://doi.org/10.1007/s10750-022-04828-6"
@@ -206,6 +212,12 @@
 			}
 		],
 		"otherPublications": [
+			{
+				"authors": "Dominguez-Castanedo O, Berbel-Filho WM, Pirro S, Valdez-Carbajal, S. 2024.",
+				"title": "The Complete Genome Sequence of the Protogynous Hermaphrodite North American Annual Killifish Millerichthys Robustus (Rivulidae, Cyprinodontiformes).",
+				"paper": "Biodiversity Genomes.",
+				"link": "https://doi.org/10.56179/001c.116895"
+			},
 			{
 				"authors": "Berbel-Filho WM, Pirro S, Thompson A, Lima SMQ, Consuegra S, Betancur R. 2023.",
 				"title": "The complete genome sequences of three species from the killifish genus Kryptolebias (Rivulidae, Cyprinodontiformes)",
